@@ -366,11 +366,11 @@ small {
 }
 
 .button-primary {
-  background-color: #959595;
+  background-color: #00CF63;
 }
 
 .button-secondary {
-  background-color: #2A2A2A;
+  background-color: #FFAA00;
 }
 
 .button-full {
@@ -439,7 +439,7 @@ input:active,
 input:focus,
 textarea:active,
 textarea:focus {
-  border: 1px solid #CCCCCC;
+  border: 1px solid #FC472E;
   outline: none;
 }
 
