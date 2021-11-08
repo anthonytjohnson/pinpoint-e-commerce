@@ -510,12 +510,12 @@ textarea {
 }
 
 .help-box {
-  background-color: #FFFFFF;
+  background-color: #FFAA00;
   border-radius: 3px;
   clear: both;
   display: block;
-  margin-top: 0;
-  padding: 0;
+  margin: 30px;
+  padding: 15px;
 }
 
 .help-box p {
